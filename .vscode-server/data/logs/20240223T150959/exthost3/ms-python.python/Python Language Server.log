@@ -29,3 +29,32 @@
 2024-02-23 15:43:43.514 [info] [Info  - 3:43:43 PM] (4286) scanned(3) 44 files over 1 exec env
 2024-02-23 15:43:47.291 [info] [Info  - 3:43:47 PM] (4286) indexed(3) 17 files over 1 exec env
 2024-02-23 15:43:47.567 [info] [Info  - 3:43:47 PM] (4286) Indexing finished(3).
+2024-02-23 15:53:07.887 [info] [Info  - 3:53:07 PM] (4286) Found 4 source files
+2024-02-23 15:54:32.194 [info] [Info  - 3:54:32 PM] (4286) Found 3 source files
+2024-02-23 15:54:44.515 [info] [Info  - 3:54:44 PM] (4286) Found 4 source files
+2024-02-23 15:56:32.940 [info] [Info  - 3:56:32 PM] (4286) Found 5 source files
+2024-02-23 15:57:54.197 [info] [Info  - 3:57:54 PM] (4286) Found 6 source files
+2024-02-23 16:02:44.515 [info] [Info  - 4:02:44 PM] (4286) Found 7 source files
+2024-02-23 16:11:10.646 [info] [Info  - 4:11:10 PM] (4286) Found 36 source files
+2024-02-23 16:12:08.721 [info] [Info  - 4:12:08 PM] (4286) Indexer background runner(4) root directory: file:///home/orangepi/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2/dist (refresh)
+2024-02-23 16:12:08.722 [info] [Info  - 4:12:08 PM] (4286) Indexing(4) started
+2024-02-23 16:12:12.679 [info] [Info  - 4:12:12 PM] (4286) [IDX(4)] Long operation: scan packages file:///home/orangepi (3923ms)
+2024-02-23 16:12:12.680 [info] [Info  - 4:12:12 PM] (4286) scanned(4) 45 files over 1 exec env
+2024-02-23 16:12:17.540 [info] [Info  - 4:12:17 PM] (4286) indexed(4) 18 files over 1 exec env
+2024-02-23 16:12:17.868 [info] [Info  - 4:12:17 PM] (4286) Indexing finished(4).
+2024-02-23 16:12:58.808 [info] [Info  - 4:12:58 PM] (4286) Found 37 source files
+2024-02-23 16:13:27.141 [info] [Info  - 4:13:27 PM] (4286) Found 38 source files
+2024-02-23 16:13:35.015 [info] [Info  - 4:13:35 PM] (4286) Indexer background runner(5) root directory: file:///home/orangepi/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2/dist (refresh)
+2024-02-23 16:13:35.016 [info] [Info  - 4:13:35 PM] (4286) Indexing(5) started
+2024-02-23 16:13:39.153 [info] [Info  - 4:13:39 PM] (4286) [IDX(5)] Long operation: scan packages file:///home/orangepi (4099ms)
+2024-02-23 16:13:39.154 [info] [Info  - 4:13:39 PM] (4286) scanned(5) 45 files over 1 exec env
+2024-02-23 16:13:43.275 [info] [Info  - 4:13:43 PM] (4286) indexed(5) 18 files over 1 exec env
+2024-02-23 16:13:43.546 [info] [Info  - 4:13:43 PM] (4286) Indexing finished(5).
+2024-02-23 16:14:05.393 [info] [Info  - 4:14:05 PM] (4286) Found 39 source files
+2024-02-23 16:19:25.447 [info] [Info  - 4:19:25 PM] (4286) Indexer background runner(6) root directory: file:///home/orangepi/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2/dist (refresh)
+2024-02-23 16:19:25.450 [info] [Info  - 4:19:25 PM] (4286) Indexing(6) started
+2024-02-23 16:19:29.792 [info] [Info  - 4:19:29 PM] (4286) [IDX(6)] Long operation: scan packages file:///home/orangepi (3572ms)
+2024-02-23 16:19:29.793 [info] [Info  - 4:19:29 PM] (4286) scanned(6) 45 files over 1 exec env
+2024-02-23 16:19:33.552 [info] [Info  - 4:19:33 PM] (4286) indexed(6) 18 files over 1 exec env
+2024-02-23 16:19:33.837 [info] [Info  - 4:19:33 PM] (4286) Indexing finished(6).
+2024-02-23 16:39:53.934 [info] [Info  - 4:39:53 PM] (4286) Found 40 source files
