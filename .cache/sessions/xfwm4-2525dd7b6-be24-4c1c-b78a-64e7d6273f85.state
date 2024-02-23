@@ -1,0 +1,11 @@
+[CLIENT] 0x2c00007
+  [CLIENT_LEADER] 0x2c00001
+  [RES_NAME] x-terminal-emulator
+  [RES_CLASS] X-terminal-emulator
+  [WM_NAME] orangepi@orangepi3-lts: ~
+  [WM_COMMAND] (1) "x-terminal-emulator"
+  [GEOMETRY] (593,340,734,452)
+  [GEOMETRY-MAXIMIZED] (593,340,734,452)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10000

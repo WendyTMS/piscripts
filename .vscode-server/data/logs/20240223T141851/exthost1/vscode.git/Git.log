@@ -1,0 +1,43 @@
+2024-02-23 14:19:00.954 [info] Log level: Info
+2024-02-23 14:19:00.954 [info] Validating found git in: "git"
+2024-02-23 14:19:00.954 [info] Using git "2.30.2" from "git"
+2024-02-23 14:19:00.954 [info] > git rev-parse --show-toplevel [102ms]
+2024-02-23 14:19:00.954 [info] > git rev-parse --git-dir --git-common-dir [9ms]
+2024-02-23 14:19:00.954 [info] Open repository: /home/orangepi
+2024-02-23 14:19:00.954 [info] > git rev-parse --show-toplevel [13ms]
+2024-02-23 14:19:00.954 [info] > git config --get commit.template [38ms]
+2024-02-23 14:19:00.954 [info] > git rev-parse --show-toplevel [33ms]
+2024-02-23 14:19:00.954 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [33ms]
+2024-02-23 14:19:00.954 [info] > git rev-parse --show-toplevel [36ms]
+2024-02-23 14:19:00.954 [info] > git rev-parse --show-toplevel [19ms]
+2024-02-23 14:19:00.955 [info] > git rev-parse --show-toplevel [13ms]
+2024-02-23 14:19:00.955 [info] > git rev-parse --show-toplevel [45ms]
+2024-02-23 14:19:00.955 [info] > git rev-parse --show-toplevel [9ms]
+2024-02-23 14:19:00.955 [info] > git rev-parse --show-toplevel [11ms]
+2024-02-23 14:19:00.955 [info] > git rev-parse --show-toplevel [32ms]
+2024-02-23 14:19:00.962 [info] > git rev-parse --show-toplevel [41ms]
+2024-02-23 14:19:01.017 [info] > git status -z -uall [590ms] (cancelled)
+2024-02-23 14:19:01.019 [info] > git rev-parse --show-toplevel [31ms]
+2024-02-23 14:19:01.083 [info] > git rev-parse --show-toplevel [28ms]
+2024-02-23 14:19:01.113 [info] > git rev-parse --show-toplevel [8ms]
+2024-02-23 14:19:01.144 [info] > git rev-parse --show-toplevel [8ms]
+2024-02-23 14:19:01.172 [info] > git rev-parse --show-toplevel [5ms]
+2024-02-23 14:19:01.201 [info] > git rev-parse --show-toplevel [6ms]
+2024-02-23 14:19:01.233 [info] > git rev-parse --show-toplevel [8ms]
+2024-02-23 14:19:01.360 [info] > git show --textconv :.ssh/id_rsa.pub [28ms]
+2024-02-23 14:19:01.368 [info] > git ls-files --stage -- /home/orangepi/.ssh/id_rsa.pub [11ms]
+2024-02-23 14:19:01.497 [info] > git check-ignore -v -z --stdin [17ms]
+2024-02-23 14:20:44.074 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [13ms]
+2024-02-23 14:20:52.235 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2024-02-23 14:21:03.450 [info] > git checkout -q -b code1 --no-track HEAD [10ms]
+2024-02-23 14:21:03.501 [info] > git config --get commit.template [27ms]
+2024-02-23 14:21:03.503 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/code1 refs/remotes/code1 [7ms]
+2024-02-23 14:21:03.786 [info] > git status -z -uall [264ms] (cancelled)
+2024-02-23 14:21:11.357 [info] > git config --get commit.template [63ms]
+2024-02-23 14:21:11.427 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/code1 refs/remotes/code1 [19ms]
+2024-02-23 14:21:19.277 [info] > git status -z -uall [7803ms] (cancelled)
+2024-02-23 14:21:41.918 [info] > git check-ignore -v -z --stdin [8ms]
+2024-02-23 14:21:42.638 [info] > git show --textconv :.bash_history [46ms]
+2024-02-23 14:21:42.645 [info] > git ls-files --stage -- /home/orangepi/.bash_history [10ms]
+2024-02-23 14:21:45.545 [info] > git show --textconv :helloWendy.py [51ms]
+2024-02-23 14:21:45.552 [info] > git ls-files --stage -- /home/orangepi/helloWendy.py [11ms]

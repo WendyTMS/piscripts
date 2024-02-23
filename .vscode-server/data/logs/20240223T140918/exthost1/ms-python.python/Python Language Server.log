@@ -1,0 +1,10 @@
+2024-02-23 14:09:35.235 [info] (Client) Pylance async client (2024.2.2) started with python extension (2024.0.1)
+2024-02-23 14:09:37.850 [info] [Info  - 2:09:37 PM] (3960) Pylance language server 2024.2.2 (pyright version 1.1.348, commit cfb1de0c) starting
+2024-02-23 14:09:37.853 [info] [Info  - 2:09:37 PM] (3960) Server root directory: file:///home/orangepi/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2/dist
+2024-02-23 14:09:37.854 [info] [Info  - 2:09:37 PM] (3960) Starting service instance "orangepi"
+2024-02-23 14:09:38.255 [info] [Info  - 2:09:38 PM] (3960) Setting pythonPath for service "orangepi": "/bin/python3"
+2024-02-23 14:09:38.256 [info] [Info  - 2:09:38 PM] (3960) Setting environmentName for service "orangepi": "3.9.2 (global)"
+2024-02-23 14:09:38.434 [info] [Info  - 2:09:38 PM] (3960) Assuming Python version 3.9
+2024-02-23 14:09:38.865 [info] [Info  - 2:09:38 PM] (3960) Found 1 source file
+2024-02-23 14:09:40.688 [info] [Info  - 2:09:40 PM] (3960) Background analysis(1) root directory: file:///home/orangepi/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2/dist
+2024-02-23 14:09:40.703 [info] [Info  - 2:09:40 PM] (3960) Background analysis(1) started

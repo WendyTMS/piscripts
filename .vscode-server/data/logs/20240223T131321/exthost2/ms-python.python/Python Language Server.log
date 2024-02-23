@@ -1,0 +1,20 @@
+2024-02-23 13:16:20.253 [info] (Client) Pylance async client (2024.2.2) started with python extension (2024.0.1)
+2024-02-23 13:16:24.009 [info] [Info  - 1:16:23 PM] (3196) Pylance language server 2024.2.2 (pyright version 1.1.348, commit cfb1de0c) starting
+2024-02-23 13:16:24.013 [info] [Info  - 1:16:24 PM] (3196) Server root directory: file:///home/orangepi/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2/dist
+2024-02-23 13:16:24.014 [info] [Info  - 1:16:24 PM] (3196) Starting service instance "orangepi"
+2024-02-23 13:16:27.683 [info] [Info  - 1:16:27 PM] (3196) Background analysis(1) root directory: file:///home/orangepi/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2/dist
+2024-02-23 13:16:27.685 [info] [Info  - 1:16:27 PM] (3196) Background analysis(1) started
+2024-02-23 13:16:29.461 [info] [Info  - 1:16:29 PM] (3196) Setting pythonPath for service "orangepi": "/bin/python3"
+2024-02-23 13:16:29.465 [info] [Info  - 1:16:29 PM] (3196) Setting environmentName for service "orangepi": "3.9.2 (global)"
+2024-02-23 13:16:29.469 [info] [Info  - 1:16:29 PM] (3196) Assuming Python version 3.9
+2024-02-23 13:16:29.473 [info] [Info  - 1:16:29 PM] (3196) Found 1 source file
+2024-02-23 13:16:33.179 [info] [Info  - 1:16:33 PM] (3196) Indexer background runner(2) root directory: file:///home/orangepi/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2/dist (index)
+2024-02-23 13:16:33.181 [info] [Info  - 1:16:33 PM] (3196) Indexing(2) started
+2024-02-23 13:16:33.184 [info] [Info  - 1:16:33 PM] (3196) [BG(1)] Long operation: analyzing: file:///home/orangepi/hello.py (3925ms)
+2024-02-23 13:16:39.587 [info] [Info  - 1:16:39 PM] (3196) [IDX(2)] Long operation: scan packages file:///home/orangepi (5787ms)
+2024-02-23 13:16:39.589 [info] [Info  - 1:16:39 PM] (3196) scanned(2) 44 files over 1 exec env
+2024-02-23 13:16:47.758 [info] [Info  - 1:16:47 PM] (3196) [IDX(2)] Long operation: indexing: file:///home/orangepi/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2/dist/typeshed-fallback/stubs/networkx/networkx/__init__.pyi (3368ms)
+2024-02-23 13:16:50.460 [info] [Info  - 1:16:50 PM] (3196) [IDX(2)] Long operation: index execution environment file:///home/orangepi (7358ms)
+2024-02-23 13:16:50.461 [info] [Info  - 1:16:50 PM] (3196) [IDX(2)] Long operation: index packages file:///home/orangepi (7524ms)
+2024-02-23 13:16:50.463 [info] [Info  - 1:16:50 PM] (3196) indexed(2) 17 files over 1 exec env
+2024-02-23 13:16:50.465 [info] [Info  - 1:16:50 PM] (3196) Indexing finished(2).

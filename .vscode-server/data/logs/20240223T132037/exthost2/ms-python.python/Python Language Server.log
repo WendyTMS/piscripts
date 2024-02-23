@@ -1,0 +1,17 @@
+2024-02-23 13:23:04.892 [info] (Client) Pylance async client (2024.2.2) started with python extension (2024.0.1)
+2024-02-23 13:23:07.904 [info] [Info  - 1:23:07 PM] (3288) Pylance language server 2024.2.2 (pyright version 1.1.348, commit cfb1de0c) starting
+2024-02-23 13:23:07.906 [info] [Info  - 1:23:07 PM] (3288) Server root directory: file:///home/orangepi/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2/dist
+2024-02-23 13:23:07.908 [info] [Info  - 1:23:07 PM] (3288) Starting service instance "orangepi"
+2024-02-23 13:23:08.247 [info] [Info  - 1:23:08 PM] (3288) Setting pythonPath for service "orangepi": "/bin/python3"
+2024-02-23 13:23:08.250 [info] [Info  - 1:23:08 PM] (3288) Setting environmentName for service "orangepi": "3.9.2 (global)"
+2024-02-23 13:23:08.423 [info] [Info  - 1:23:08 PM] (3288) Assuming Python version 3.9
+2024-02-23 13:23:08.821 [info] [Info  - 1:23:08 PM] (3288) Found 1 source file
+2024-02-23 13:23:10.963 [info] [Info  - 1:23:10 PM] (3288) Background analysis(1) root directory: file:///home/orangepi/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2/dist
+2024-02-23 13:23:10.980 [info] [Info  - 1:23:10 PM] (3288) Background analysis(1) started
+2024-02-23 13:23:12.496 [info] [Info  - 1:23:12 PM] (3288) Indexer background runner(2) root directory: file:///home/orangepi/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2/dist (index)
+2024-02-23 13:23:12.498 [info] [Info  - 1:23:12 PM] (3288) Indexing(2) started
+2024-02-23 13:23:14.349 [info] [Info  - 1:23:14 PM] (3288) [BG(1)] Long operation: analyzing: file:///home/orangepi/hello.py (2942ms)
+2024-02-23 13:23:17.259 [info] [Info  - 1:23:17 PM] (3288) [IDX(2)] Long operation: scan packages file:///home/orangepi (4719ms)
+2024-02-23 13:23:17.260 [info] [Info  - 1:23:17 PM] (3288) scanned(2) 44 files over 1 exec env
+2024-02-23 13:23:21.213 [info] [Info  - 1:23:21 PM] (3288) indexed(2) 17 files over 1 exec env
+2024-02-23 13:23:21.509 [info] [Info  - 1:23:21 PM] (3288) Indexing finished(2).

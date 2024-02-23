@@ -1,0 +1,20 @@
+2024-02-23 13:32:04.749 [info] Experiment 'pythonaa' is active
+2024-02-23 13:32:04.749 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-02-23 13:32:04.749 [info] Experiment 'pythonREPLSmartSend' is active
+2024-02-23 13:32:04.749 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-02-23 13:32:04.749 [info] Experiment 'pythonTestAdapter' is active
+2024-02-23 13:32:04.749 [info] Default formatter is set to null for workspace /home/orangepi
+2024-02-23 13:32:04.749 [info] Test server listening.
+2024-02-23 13:32:04.749 [info] > conda info --json
+2024-02-23 13:32:04.751 [info] Found: /bin/python3 --> /bin/python3.9
+2024-02-23 13:32:04.759 [info] Found: /bin/python3.9 --> /bin/python3.9
+2024-02-23 13:32:04.929 [info] Found: /usr/bin/python3 --> /usr/bin/python3.9
+2024-02-23 13:32:04.936 [info] Found: /usr/bin/python3.9 --> /usr/bin/python3.9
+2024-02-23 13:32:05.058 [info] > /bin/python3 -I ./.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/interpreterInfo.py
+2024-02-23 13:32:05.298 [info] Python interpreter path: /bin/python3
+2024-02-23 13:32:05.777 [info] > /usr/bin/python3 -I ./.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/interpreterInfo.py
+2024-02-23 13:32:06.048 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-23 13:32:06.465 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-23 13:32:06.465 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-23 13:32:06.465 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-23 13:32:10.086 [info] Starting Pylance language server.

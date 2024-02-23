@@ -1,0 +1,43 @@
+2024-02-23 13:31:55.059 [info] Extension host with pid 2911 started
+2024-02-23 13:31:55.060 [error] Error: EEXIST: file already exists, open '/home/orangepi/.vscode-server/data/User/workspaceStorage/027afac596c6d84050390f0ae62768b0/vscode.lock'
+2024-02-23 13:31:55.094 [info] Lock '/home/orangepi/.vscode-server/data/User/workspaceStorage/027afac596c6d84050390f0ae62768b0/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-02-23 13:31:55.158 [info] Lock '/home/orangepi/.vscode-server/data/User/workspaceStorage/027afac596c6d84050390f0ae62768b0/vscode.lock': The pid 3154 appears to be gone.
+2024-02-23 13:31:55.159 [info] Lock '/home/orangepi/.vscode-server/data/User/workspaceStorage/027afac596c6d84050390f0ae62768b0/vscode.lock': Deleting a stale lock.
+2024-02-23 13:31:55.276 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2024-02-23 13:31:55.286 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-02-23 13:31:55.289 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2024-02-23 13:31:55.292 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-23 13:31:58.250 [info] Lock '/home/orangepi/.vscode-server/data/User/workspaceStorage/027afac596c6d84050390f0ae62768b0/vscode.lock': Lock acquired.
+2024-02-23 13:31:59.450 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2024-02-23 13:31:59.454 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2024-02-23 13:32:01.734 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-02-23 13:32:03.967 [info] Eager extensions activated
+2024-02-23 13:32:03.969 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-23 13:32:03.972 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-23 13:32:14.319 [error] Error: getaddrinfo ENOTFOUND mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26)
+2024-02-23 13:32:20.945 [error] Error: getaddrinfo ENOTFOUND mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26)
+2024-02-23 13:32:30.957 [error] Error: getaddrinfo ENOTFOUND mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26)
+2024-02-23 13:32:34.340 [error] Error: getaddrinfo ENOTFOUND mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26)
+2024-02-23 13:32:40.968 [error] Error: getaddrinfo ENOTFOUND mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26)
+2024-02-23 13:32:44.351 [error] Error: getaddrinfo ENOTFOUND mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26)
+2024-02-23 13:32:50.979 [error] Error: getaddrinfo ENOTFOUND mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26)
+2024-02-23 13:32:54.361 [error] Error: getaddrinfo ENOTFOUND mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26)
+2024-02-23 13:33:00.991 [error] Error: getaddrinfo ENOTFOUND mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26)
+2024-02-23 13:33:14.347 [error] Error: getaddrinfo ENOTFOUND mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26)
+2024-02-23 13:33:49.673 [error] Error: getaddrinfo ENOTFOUND mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26)
+2024-02-23 13:34:03.332 [error] Error: getaddrinfo ENOTFOUND mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26)
+2024-02-23 13:44:40.645 [info] Extension host terminating: received terminate message from renderer
+2024-02-23 13:44:40.650 [info] Lock '/home/orangepi/.vscode-server/data/User/workspaceStorage/027afac596c6d84050390f0ae62768b0/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-02-23 13:44:41.168 [info] Extension host with pid 2911 exiting with code 0
