@@ -342,3 +342,68 @@
 2024-02-23 15:43:48.364 [warning] git config failed: Failed to execute git
 2024-02-23 15:43:48.404 [info] > git reflog refs/heads/main --grep-reflog=branch: Created from *. [8ms]
 2024-02-23 15:43:48.440 [info] > git status -z -uall [205ms]
+2024-02-23 15:43:48.460 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [26ms]
+2024-02-23 15:43:48.460 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-02-23 15:43:48.513 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main [4ms]
+2024-02-23 15:43:48.590 [info] > git add -A -- . [395ms]
+2024-02-23 15:43:48.591 [info] warning: adding embedded git repository: piscripts
+hint: You've added another git repository inside your current repository.
+hint: Clones of the outer repository will not contain the contents of
+hint: the embedded repository and will not know how to obtain it.
+hint: If you meant to add a submodule, use:
+hint: 
+hint: 	git submodule add <url> piscripts
+hint: 
+hint: If you added this path by mistake, you can remove it from the
+hint: index with:
+hint: 
+hint: 	git rm --cached piscripts
+hint: 
+hint: See "git help submodule" for more information.
+2024-02-23 15:43:48.625 [info] > git config --local branch.main.vscode-merge-base [83ms]
+2024-02-23 15:43:48.626 [warning] git config failed: Failed to execute git
+2024-02-23 15:43:48.688 [info] > git reflog refs/heads/main --grep-reflog=branch: Created from *. [7ms]
+2024-02-23 15:43:48.727 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [8ms]
+2024-02-23 15:43:48.727 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-02-23 15:43:48.780 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main [4ms]
+2024-02-23 15:43:48.813 [info] > git config --local branch.main.vscode-merge-base [4ms]
+2024-02-23 15:43:48.814 [warning] git config failed: Failed to execute git
+2024-02-23 15:43:48.848 [info] > git reflog refs/heads/main --grep-reflog=branch: Created from *. [7ms]
+2024-02-23 15:43:48.882 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [258ms]
+2024-02-23 15:43:48.913 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [34ms]
+2024-02-23 15:43:48.913 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-02-23 15:43:48.915 [info] > git config --get commit.template [5ms]
+2024-02-23 15:43:48.986 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-02-23 15:43:48.987 [info] > git config --get commit.template [39ms]
+2024-02-23 15:43:49.192 [info] > git status -z -uall [176ms]
+2024-02-23 15:43:49.271 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main [4ms]
+2024-02-23 15:43:49.309 [info] > git config --local branch.main.vscode-merge-base [7ms]
+2024-02-23 15:43:49.309 [warning] git config failed: Failed to execute git
+2024-02-23 15:43:49.388 [info] > git reflog refs/heads/main --grep-reflog=branch: Created from *. [50ms]
+2024-02-23 15:43:49.417 [info] > git config --get commit.template [32ms]
+2024-02-23 15:43:49.420 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [6ms]
+2024-02-23 15:43:49.421 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-02-23 15:43:49.453 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2024-02-23 15:43:49.547 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main [6ms]
+2024-02-23 15:43:49.583 [info] > git config --local branch.main.vscode-merge-base [4ms]
+2024-02-23 15:43:49.583 [warning] git config failed: Failed to execute git
+2024-02-23 15:43:49.619 [info] > git reflog refs/heads/main --grep-reflog=branch: Created from *. [6ms]
+2024-02-23 15:43:49.651 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [3ms]
+2024-02-23 15:43:49.651 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-02-23 15:43:49.669 [info] > git status -z -uall [188ms]
+2024-02-23 15:43:49.733 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main [5ms]
+2024-02-23 15:43:49.768 [info] > git config --local branch.main.vscode-merge-base [5ms]
+2024-02-23 15:43:49.768 [warning] git config failed: Failed to execute git
+2024-02-23 15:43:49.803 [info] > git reflog refs/heads/main --grep-reflog=branch: Created from *. [7ms]
+2024-02-23 15:43:49.835 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [4ms]
+2024-02-23 15:43:49.835 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-02-23 15:43:50.185 [info] > git ls-files --stage -- /home/orangepi/.ssh/WendyWasHere.py [13ms]
+2024-02-23 15:43:50.216 [info] > git cat-file -s dcba731a9fec8c3cc8d2d63fad880b3a047f5fe2 [4ms]
+2024-02-23 15:43:50.270 [info] > git show --textconv :.ssh/WendyWasHere.py [15ms]
+2024-02-23 15:43:53.569 [info] > git config --get commit.template [49ms]
+2024-02-23 15:43:53.572 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2024-02-23 15:43:53.825 [info] > git status -z -uall [207ms]
+2024-02-23 15:43:58.886 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main [43ms]
+2024-02-23 15:43:58.923 [info] > git config --local branch.main.vscode-merge-base [4ms]
+2024-02-23 15:43:58.924 [warning] git config failed: Failed to execute git
+2024-02-23 15:43:58.962 [info] > git reflog refs/heads/main --grep-reflog=branch: Created from *. [8ms]
