@@ -1,4 +1,4 @@
-Xsession: X session started for orangepi at Fri 23 Feb 2024 01:28:44 PM CET
+Xsession: X session started for orangepi at Fri 23 Feb 2024 03:09:30 PM CET
 WARNING: tempfile is deprecated; consider using mktemp instead.
 dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
 dbus-update-activation-environment: setting DISPLAY=:0
@@ -35,15 +35,15 @@ dbus-update-activation-environment: setting PWD=/home/orangepi
 dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
 /usr/bin/startxfce4: X server already running on display :0
 /usr/bin/iceauth:  creating new authority file /run/user/1000/ICEauthority
-xfce4-session-Message: 13:28:47.286: SSH authentication agent is already running
+xfce4-session-Message: 15:09:33.310: SSH authentication agent is already running
 gpg-agent: a gpg-agent is already running - not starting a new one
 
-** (xfdesktop:1994): WARNING **: 13:28:50.279: Thumbnailer failed calling GetFlavors
+** (xfdesktop:1998): WARNING **: 15:09:36.275: Thumbnailer failed calling GetFlavors
 
-(xfce4-notifyd:2008): xfce4-notifyd-WARNING **: 13:28:50.705: theme 'Numix' is not found anywhere is user themes directories
+(xfce4-notifyd:2094): xfce4-notifyd-WARNING **: 15:09:36.870: theme 'Numix' is not found anywhere is user themes directories
 
-(pasystray:2003): pasystray-WARNING **: 13:28:50.729: Error initializing Avahi: Daemon not running
-blueman-applet 13.28.52 WARNING  PluginManager:148 __load_plugin: Not loading DhcpClient because its conflict has higher priority
-blueman-applet 13.28.52 WARNING  PluginManager:148 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+(pasystray:2083): pasystray-WARNING **: 15:09:36.947: Error initializing Avahi: Daemon not running
+blueman-applet 15.09.38 WARNING  PluginManager:148 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+blueman-applet 15.09.39 WARNING  PluginManager:148 __load_plugin: Not loading PPPSupport because its conflict has higher priority
 blueman-tray version 2.1.4 starting
 There is an instance already running

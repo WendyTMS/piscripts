@@ -44,3 +44,32 @@
 	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26)
 2024-02-23 14:22:26.070 [error] Error: getaddrinfo ENOTFOUND mobile.events.data.microsoft.com
 	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26)
+2024-02-23 14:22:32.556 [error] Error: getaddrinfo ENOTFOUND mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26)
+2024-02-23 14:22:36.073 [error] Error: getaddrinfo ENOTFOUND mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26)
+2024-02-23 14:22:42.565 [error] Error: getaddrinfo ENOTFOUND mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26)
+2024-02-23 14:22:55.333 [error] Error: getaddrinfo ENOTFOUND mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26)
+2024-02-23 14:22:59.384 [error] Error: getaddrinfo ENOTFOUND mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26)
+2024-02-23 14:23:00.369 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10006
+2024-02-23 14:23:17.927 [error] Error: getaddrinfo ENOTFOUND mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26)
+2024-02-23 14:23:46.129 [error] Error: getaddrinfo ENOTFOUND mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26)
+2024-02-23 14:23:59.921 [error] Error: getaddrinfo ENOTFOUND mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26)
+2024-02-23 14:24:14.342 [error] Error: getaddrinfo ENOTFOUND mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26)
+2024-02-23 14:24:27.323 [error] Error: getaddrinfo ENOTFOUND mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26)
+2024-02-23 14:49:24.590 [error] Error: getaddrinfo ENOTFOUND mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26)
+2024-02-23 14:49:37.721 [error] Error: getaddrinfo ENOTFOUND mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26)
+2024-02-23 14:52:43.240 [error] Error: getaddrinfo ENOTFOUND mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26)
+2024-02-23 14:52:56.114 [error] Error: getaddrinfo ENOTFOUND mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26)

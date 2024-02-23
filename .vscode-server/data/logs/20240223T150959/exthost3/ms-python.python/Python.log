@@ -1,0 +1,27 @@
+2024-02-23 15:34:16.775 [info] Experiment 'pythonaa' is active
+2024-02-23 15:34:16.775 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-02-23 15:34:16.775 [info] Experiment 'pythonREPLSmartSend' is active
+2024-02-23 15:34:16.775 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-02-23 15:34:16.775 [info] Experiment 'pythonTestAdapter' is active
+2024-02-23 15:34:16.776 [info] Default formatter is set to null for workspace /home/orangepi
+2024-02-23 15:34:16.776 [info] Test server listening.
+2024-02-23 15:34:16.776 [info] > conda info --json
+2024-02-23 15:34:16.778 [info] Found: /bin/python3 --> /bin/python3.9
+2024-02-23 15:34:16.814 [info] Found: /bin/python3.9 --> /bin/python3.9
+2024-02-23 15:34:17.257 [info] Found: /usr/bin/python3 --> /usr/bin/python3.9
+2024-02-23 15:34:17.293 [info] Found: /usr/bin/python3.9 --> /usr/bin/python3.9
+2024-02-23 15:34:17.502 [info] > /bin/python3 -I ./.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/interpreterInfo.py
+2024-02-23 15:34:18.051 [info] Python interpreter path: /bin/python3
+2024-02-23 15:34:18.745 [info] > /usr/bin/python3 -I ./.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/interpreterInfo.py
+2024-02-23 15:34:19.273 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-23 15:34:19.786 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-23 15:34:19.786 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-23 15:34:19.786 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-23 15:34:19.787 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-23 15:34:19.897 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-23 15:34:19.897 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-23 15:34:19.897 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-23 15:34:23.657 [info] Starting Pylance language server.
+2024-02-23 15:43:01.568 [info] Discover tests for workspace name: orangepi - uri: /home/orangepi/.ssh/WendyWasHere.py
+2024-02-23 15:43:04.403 [info] Discover tests for workspace name: orangepi - uri: /home/orangepi/.ssh/WendyWasHere.py
+2024-02-23 15:43:33.419 [info] Discover tests for workspace name: orangepi - uri: /home/orangepi/.ssh/WendyWasHere.py

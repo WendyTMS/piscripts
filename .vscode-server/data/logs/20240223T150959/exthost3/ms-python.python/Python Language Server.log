@@ -1,0 +1,31 @@
+2024-02-23 15:34:20.396 [info] (Client) Pylance async client (2024.2.2) started with python extension (2024.0.1)
+2024-02-23 15:34:23.534 [info] [Info  - 3:34:23 PM] (4286) Pylance language server 2024.2.2 (pyright version 1.1.348, commit cfb1de0c) starting
+2024-02-23 15:34:23.538 [info] [Info  - 3:34:23 PM] (4286) Server root directory: file:///home/orangepi/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2/dist
+2024-02-23 15:34:23.539 [info] [Info  - 3:34:23 PM] (4286) Starting service instance "orangepi"
+2024-02-23 15:34:23.921 [info] [Info  - 3:34:23 PM] (4286) Setting pythonPath for service "orangepi": "/bin/python3"
+2024-02-23 15:34:23.927 [info] [Info  - 3:34:23 PM] (4286) Setting environmentName for service "orangepi": "3.9.2 (global)"
+2024-02-23 15:34:24.160 [info] [Info  - 3:34:24 PM] (4286) Assuming Python version 3.9
+2024-02-23 15:34:24.704 [info] [Info  - 3:34:24 PM] (4286) Found 2 source files
+2024-02-23 15:34:28.006 [info] [Info  - 3:34:28 PM] (4286) Background analysis(1) root directory: file:///home/orangepi/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2/dist
+2024-02-23 15:34:28.026 [info] [Info  - 3:34:28 PM] (4286) Background analysis(1) started
+2024-02-23 15:34:29.689 [info] [Info  - 3:34:29 PM] (4286) Indexer background runner(2) root directory: file:///home/orangepi/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2/dist (index)
+2024-02-23 15:34:29.691 [info] [Info  - 3:34:29 PM] (4286) Indexing(2) started
+2024-02-23 15:34:32.913 [info] [Info  - 3:34:32 PM] (4286) [BG(1)] Long operation: checking: file:///home/orangepi/helloWendy.py (2234ms)
+2024-02-23 15:34:32.915 [info] [Info  - 3:34:32 PM] (4286) [BG(1)] Long operation: analyzing: file:///home/orangepi/helloWendy.py (4349ms)
+2024-02-23 15:34:36.208 [info] [Info  - 3:34:36 PM] (4286) [IDX(2)] Long operation: scan packages file:///home/orangepi (6443ms)
+2024-02-23 15:34:36.210 [info] [Info  - 3:34:36 PM] (4286) scanned(2) 44 files over 1 exec env
+2024-02-23 15:34:42.894 [info] [Info  - 3:34:42 PM] (4286) [IDX(2)] Long operation: index packages file:///home/orangepi (2692ms)
+2024-02-23 15:34:42.895 [info] [Info  - 3:34:42 PM] (4286) indexed(2) 17 files over 1 exec env
+2024-02-23 15:34:43.235 [info] [Info  - 3:34:43 PM] (4286) Indexing finished(2).
+2024-02-23 15:40:48.368 [info] [Info  - 3:40:48 PM] (4286) Found 3 source files
+2024-02-23 15:42:50.915 [info] [Info  - 3:42:50 PM] (4286) Found 3 source files
+2024-02-23 15:43:36.287 [info] [Info  - 3:43:36 PM] (4286) Setting pythonPath for service "orangepi": "/bin/python3"
+2024-02-23 15:43:36.314 [info] [Info  - 3:43:36 PM] (4286) Setting environmentName for service "orangepi": "3.9.2 (global)"
+2024-02-23 15:43:36.444 [info] [Info  - 3:43:36 PM] (4286) Assuming Python version 3.9
+2024-02-23 15:43:36.730 [info] [Info  - 3:43:36 PM] (4286) Found 3 source files
+2024-02-23 15:43:39.903 [info] [Info  - 3:43:39 PM] (4286) Indexer background runner(3) root directory: file:///home/orangepi/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2/dist (index)
+2024-02-23 15:43:39.904 [info] [Info  - 3:43:39 PM] (4286) Indexing(3) started
+2024-02-23 15:43:43.513 [info] [Info  - 3:43:43 PM] (4286) [IDX(3)] Long operation: scan packages file:///home/orangepi (2941ms)
+2024-02-23 15:43:43.514 [info] [Info  - 3:43:43 PM] (4286) scanned(3) 44 files over 1 exec env
+2024-02-23 15:43:47.291 [info] [Info  - 3:43:47 PM] (4286) indexed(3) 17 files over 1 exec env
+2024-02-23 15:43:47.567 [info] [Info  - 3:43:47 PM] (4286) Indexing finished(3).

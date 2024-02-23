@@ -41,3 +41,152 @@
 2024-02-23 14:21:42.645 [info] > git ls-files --stage -- /home/orangepi/.bash_history [10ms]
 2024-02-23 14:21:45.545 [info] > git show --textconv :helloWendy.py [51ms]
 2024-02-23 14:21:45.552 [info] > git ls-files --stage -- /home/orangepi/helloWendy.py [11ms]
+2024-02-23 14:22:39.459 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [9ms]
+2024-02-23 14:22:44.198 [info] > git checkout -q main [8ms]
+2024-02-23 14:22:44.199 [info] fatal: Unable to create '/home/orangepi/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-02-23 14:22:44.290 [info] > git checkout -q main [5ms]
+2024-02-23 14:22:44.290 [info] fatal: Unable to create '/home/orangepi/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-02-23 14:22:44.531 [info] > git checkout -q main [5ms]
+2024-02-23 14:22:44.531 [info] fatal: Unable to create '/home/orangepi/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-02-23 14:22:45.022 [info] > git checkout -q main [5ms]
+2024-02-23 14:22:45.022 [info] fatal: Unable to create '/home/orangepi/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-02-23 14:22:45.865 [info] > git checkout -q main [5ms]
+2024-02-23 14:22:45.865 [info] fatal: Unable to create '/home/orangepi/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-02-23 14:22:47.155 [info] > git checkout -q main [5ms]
+2024-02-23 14:22:47.155 [info] fatal: Unable to create '/home/orangepi/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-02-23 14:22:48.994 [info] > git checkout -q main [5ms]
+2024-02-23 14:22:48.994 [info] fatal: Unable to create '/home/orangepi/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-02-23 14:22:51.484 [info] > git checkout -q main [5ms]
+2024-02-23 14:22:51.484 [info] fatal: Unable to create '/home/orangepi/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-02-23 14:22:54.726 [info] > git checkout -q main [5ms]
+2024-02-23 14:22:54.726 [info] fatal: Unable to create '/home/orangepi/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-02-23 14:22:59.071 [info] > git checkout -q main [260ms]
+2024-02-23 14:22:59.119 [info] > git config --get commit.template [5ms]
+2024-02-23 14:22:59.163 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2024-02-23 14:23:07.721 [info] > git status -z -uall [8521ms] (cancelled)
+2024-02-23 14:23:23.197 [info] > git ls-files --stage -- /home/orangepi/helloWendy.py [51ms]
+2024-02-23 14:23:23.261 [info] > git cat-file -s 533c3d50a87b8201bc688830842e0acf9309c0a3 [4ms]
+2024-02-23 14:23:23.341 [info] > git show --textconv :helloWendy.py [12ms]
+2024-02-23 14:24:25.075 [info] > git check-ignore -v -z --stdin [39ms]
+2024-02-23 14:24:31.632 [info] > git ls-files --stage -- /home/orangepi/helloWendy.py [16ms]
+2024-02-23 14:24:31.665 [info] > git cat-file -s 533c3d50a87b8201bc688830842e0acf9309c0a3 [4ms]
+2024-02-23 14:24:31.721 [info] > git show --textconv :helloWendy.py [13ms]
+2024-02-23 14:24:54.086 [info] > git ls-files --stage -- /home/orangepi/helloWendy.py [20ms]
+2024-02-23 14:24:54.125 [info] > git cat-file -s 533c3d50a87b8201bc688830842e0acf9309c0a3 [4ms]
+2024-02-23 14:24:54.190 [info] > git show --textconv :helloWendy.py [17ms]
+2024-02-23 14:25:13.450 [info] > git ls-files --stage -- /home/orangepi/helloWendy.py [18ms]
+2024-02-23 14:25:13.486 [info] > git cat-file -s 533c3d50a87b8201bc688830842e0acf9309c0a3 [4ms]
+2024-02-23 14:25:13.545 [info] > git show --textconv :helloWendy.py [15ms]
+2024-02-23 14:26:28.735 [info] > git ls-files --stage -- /home/orangepi/helloWendy.py [22ms]
+2024-02-23 14:26:28.771 [info] > git cat-file -s 533c3d50a87b8201bc688830842e0acf9309c0a3 [6ms]
+2024-02-23 14:26:28.828 [info] > git show --textconv :helloWendy.py [15ms]
+2024-02-23 14:27:34.587 [info] > git ls-files --stage -- /home/orangepi/helloWendy.py [19ms]
+2024-02-23 14:27:34.621 [info] > git cat-file -s 533c3d50a87b8201bc688830842e0acf9309c0a3 [4ms]
+2024-02-23 14:27:34.675 [info] > git show --textconv :helloWendy.py [14ms]
+2024-02-23 14:39:21.430 [info] > git ls-files --stage -- /home/orangepi/helloWendy.py [19ms]
+2024-02-23 14:39:21.464 [info] > git cat-file -s 533c3d50a87b8201bc688830842e0acf9309c0a3 [4ms]
+2024-02-23 14:39:21.519 [info] > git show --textconv :helloWendy.py [14ms]
+2024-02-23 14:39:32.216 [info] > git ls-files --stage -- /home/orangepi/helloWendy.py [17ms]
+2024-02-23 14:39:32.249 [info] > git cat-file -s 533c3d50a87b8201bc688830842e0acf9309c0a3 [4ms]
+2024-02-23 14:39:32.306 [info] > git show --textconv :helloWendy.py [16ms]
+2024-02-23 14:39:53.442 [info] > git ls-files --stage -- /home/orangepi/helloWendy.py [6ms]
+2024-02-23 14:39:53.442 [info] fatal: bad config line 9 in file .git/config
+2024-02-23 14:39:53.489 [info] > git show --textconv :helloWendy.py [3ms]
+2024-02-23 14:39:59.233 [info] > git ls-files --stage -- /home/orangepi/helloWendy.py [3ms]
+2024-02-23 14:39:59.233 [info] fatal: bad config line 9 in file .git/config
+2024-02-23 14:39:59.275 [info] > git show --textconv :helloWendy.py [4ms]
+2024-02-23 14:40:16.661 [info] > git ls-files --stage -- /home/orangepi/helloWendy.py [4ms]
+2024-02-23 14:40:16.661 [info] fatal: bad config line 9 in file .git/config
+2024-02-23 14:40:16.705 [info] > git show --textconv :helloWendy.py [3ms]
+2024-02-23 14:40:29.539 [info] > git ls-files --stage -- /home/orangepi/helloWendy.py [8ms]
+2024-02-23 14:40:29.539 [info] fatal: bad config line 9 in file .git/config
+2024-02-23 14:40:29.617 [info] > git show --textconv :helloWendy.py [4ms]
+2024-02-23 14:40:49.695 [info] > git ls-files --stage -- /home/orangepi/helloWendy.py [17ms]
+2024-02-23 14:40:49.729 [info] > git cat-file -s 533c3d50a87b8201bc688830842e0acf9309c0a3 [4ms]
+2024-02-23 14:40:49.784 [info] > git show --textconv :helloWendy.py [14ms]
+2024-02-23 14:41:19.922 [info] > git ls-files --stage -- /home/orangepi/helloWendy.py [17ms]
+2024-02-23 14:41:19.956 [info] > git cat-file -s 533c3d50a87b8201bc688830842e0acf9309c0a3 [4ms]
+2024-02-23 14:41:20.014 [info] > git show --textconv :helloWendy.py [14ms]
+2024-02-23 14:42:03.633 [info] > git check-ignore -v -z --stdin [22ms]
+2024-02-23 14:54:02.022 [info] > git check-ignore -v -z --stdin [18ms]
+2024-02-23 14:57:33.737 [info] > git ls-files --stage -- /home/orangepi/helloWendy.py [17ms]
+2024-02-23 14:57:33.772 [info] > git cat-file -s 533c3d50a87b8201bc688830842e0acf9309c0a3 [4ms]
+2024-02-23 14:57:33.827 [info] > git show --textconv :helloWendy.py [14ms]
+2024-02-23 14:58:01.011 [info] > git ls-files --stage -- /home/orangepi/helloWendy.py [17ms]
+2024-02-23 14:58:01.045 [info] > git cat-file -s 533c3d50a87b8201bc688830842e0acf9309c0a3 [5ms]
+2024-02-23 14:58:01.100 [info] > git show --textconv :helloWendy.py [14ms]
+2024-02-23 14:58:13.891 [info] > git ls-files --stage -- /home/orangepi/helloWendy.py [18ms]
+2024-02-23 14:58:13.925 [info] > git cat-file -s 533c3d50a87b8201bc688830842e0acf9309c0a3 [4ms]
+2024-02-23 14:58:13.980 [info] > git show --textconv :helloWendy.py [15ms]
+2024-02-23 14:58:16.818 [info] > git ls-files --stage -- /home/orangepi/helloWendy.py [17ms]
+2024-02-23 14:58:16.852 [info] > git cat-file -s 533c3d50a87b8201bc688830842e0acf9309c0a3 [4ms]
+2024-02-23 14:58:16.907 [info] > git show --textconv :helloWendy.py [15ms]
+2024-02-23 14:58:43.016 [info] > git ls-files --stage -- /home/orangepi/helloWendy.py [51ms]
+2024-02-23 14:58:43.079 [info] > git cat-file -s 533c3d50a87b8201bc688830842e0acf9309c0a3 [4ms]
+2024-02-23 14:58:43.134 [info] > git show --textconv :helloWendy.py [15ms]
+2024-02-23 14:58:51.114 [info] > git ls-files --stage -- /home/orangepi/helloWendy.py [17ms]
+2024-02-23 14:58:51.148 [info] > git cat-file -s 533c3d50a87b8201bc688830842e0acf9309c0a3 [4ms]
+2024-02-23 14:58:51.207 [info] > git show --textconv :helloWendy.py [15ms]
+2024-02-23 14:58:52.901 [info] > git ls-files --stage -- /home/orangepi/helloWendy.py [18ms]
+2024-02-23 14:58:52.936 [info] > git cat-file -s 533c3d50a87b8201bc688830842e0acf9309c0a3 [4ms]
+2024-02-23 14:58:52.990 [info] > git show --textconv :helloWendy.py [14ms]
+2024-02-23 14:59:20.260 [info] > git ls-files --stage -- /home/orangepi/helloWendy.py [17ms]
+2024-02-23 14:59:20.294 [info] > git cat-file -s 533c3d50a87b8201bc688830842e0acf9309c0a3 [4ms]
+2024-02-23 14:59:20.349 [info] > git show --textconv :helloWendy.py [15ms]
+2024-02-23 14:59:30.379 [info] > git ls-files --stage -- /home/orangepi/helloWendy.py [18ms]
+2024-02-23 14:59:30.413 [info] > git cat-file -s 533c3d50a87b8201bc688830842e0acf9309c0a3 [4ms]
+2024-02-23 14:59:30.469 [info] > git show --textconv :helloWendy.py [14ms]
